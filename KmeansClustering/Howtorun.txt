@@ -1,0 +1,25 @@
+To run this sumaltion, process as follow:
+
+1-Open terminal then type ipython
+2-import sys 
+3-sys.path.append('path to the simulation package (folder)')
+
+IMPORT ALL SIMULATION FUNCTIONS
+
+5-import Simulation
+6-from Simulation.dataset import load_data
+7-from Simulation.initialisation.random_centers import generate_centers
+8-from Simulation.initialisation.geo_init import geometric_init
+9-from Simulation.kmeans import _KMeans
+
+HOW TO RUN A SIMULATION
+
+10-take nb_points in [100,200,300,400,500,600,700,800,900,1000]
+9-take nb_centers>4
+11-result=_KMeans(nb_points,nb_centers)
+
+OUTPUTS
+
+12-To see clusters: result.getCluster
+13-Inter cluster criterion: result.getIntercluster
+14-Intra cluster criterion: result.getIntracluster
