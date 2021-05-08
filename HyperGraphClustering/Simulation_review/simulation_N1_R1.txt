@@ -1,0 +1,1008 @@
+SN.node[0].ResourceManager: Castalia|	module:SN.node[0].ResourceManager
+SN.node[0].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[0].ResourceManager: Castalia|			0.0661885 
+SN.node[0].ResourceManager: Castalia|		simple output name:Estimated network lifetime (days)
+SN.node[0].ResourceManager: Castalia|			8.75114e-05 
+SN.node[0].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[0].ResourceManager: Castalia|			0.433812 
+SN.node[0].Application: Castalia|	module:SN.node[0].Application
+SN.node[0].Application: Castalia|		 index:11 simple output name:Packets loss rate
+SN.node[0].Application: Castalia|			1 total
+SN.node[0].Application: Castalia|		 index:11 simple output name:Packets reception rate
+SN.node[0].Application: Castalia|			0 total
+SN.node[1].ResourceManager: Castalia|	module:SN.node[1].ResourceManager
+SN.node[1].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[1].ResourceManager: Castalia|			0.0678207 
+SN.node[1].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[1].ResourceManager: Castalia|			0.432179 
+SN.node[2].ResourceManager: Castalia|	module:SN.node[2].ResourceManager
+SN.node[2].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[2].ResourceManager: Castalia|			0.0656535 
+SN.node[2].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[2].ResourceManager: Castalia|			0.434347 
+SN.node[3].ResourceManager: Castalia|	module:SN.node[3].ResourceManager
+SN.node[3].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[3].ResourceManager: Castalia|			0.0652054 
+SN.node[3].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[3].ResourceManager: Castalia|			0.434795 
+SN.node[4].ResourceManager: Castalia|	module:SN.node[4].ResourceManager
+SN.node[4].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[4].ResourceManager: Castalia|			0.0670721 
+SN.node[4].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[4].ResourceManager: Castalia|			0.432928 
+SN.node[5].ResourceManager: Castalia|	module:SN.node[5].ResourceManager
+SN.node[5].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[5].ResourceManager: Castalia|			0.0676487 
+SN.node[5].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[5].ResourceManager: Castalia|			0.432351 
+SN.node[6].ResourceManager: Castalia|	module:SN.node[6].ResourceManager
+SN.node[6].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[6].ResourceManager: Castalia|			0.0663244 
+SN.node[6].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[6].ResourceManager: Castalia|			0.433676 
+SN.node[7].ResourceManager: Castalia|	module:SN.node[7].ResourceManager
+SN.node[7].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[7].ResourceManager: Castalia|			0.0661255 
+SN.node[7].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[7].ResourceManager: Castalia|			0.433874 
+SN.node[8].ResourceManager: Castalia|	module:SN.node[8].ResourceManager
+SN.node[8].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[8].ResourceManager: Castalia|			0.0650252 
+SN.node[8].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[8].ResourceManager: Castalia|			0.434975 
+SN.node[9].ResourceManager: Castalia|	module:SN.node[9].ResourceManager
+SN.node[9].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[9].ResourceManager: Castalia|			0.0665752 
+SN.node[9].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[9].ResourceManager: Castalia|			0.433425 
+SN.node[10].ResourceManager: Castalia|	module:SN.node[10].ResourceManager
+SN.node[10].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[10].ResourceManager: Castalia|			0.0650138 
+SN.node[10].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[10].ResourceManager: Castalia|			0.434986 
+SN.node[11].ResourceManager: Castalia|	module:SN.node[11].ResourceManager
+SN.node[11].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[11].ResourceManager: Castalia|			0.0679974 
+SN.node[11].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[11].ResourceManager: Castalia|			0.432003 
+SN.node[12].ResourceManager: Castalia|	module:SN.node[12].ResourceManager
+SN.node[12].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[12].ResourceManager: Castalia|			0.0676342 
+SN.node[12].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[12].ResourceManager: Castalia|			0.432366 
+SN.node[13].ResourceManager: Castalia|	module:SN.node[13].ResourceManager
+SN.node[13].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[13].ResourceManager: Castalia|			0.067923 
+SN.node[13].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[13].ResourceManager: Castalia|			0.432077 
+SN.node[14].ResourceManager: Castalia|	module:SN.node[14].ResourceManager
+SN.node[14].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[14].ResourceManager: Castalia|			0.0673566 
+SN.node[14].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[14].ResourceManager: Castalia|			0.432643 
+SN.node[15].ResourceManager: Castalia|	module:SN.node[15].ResourceManager
+SN.node[15].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[15].ResourceManager: Castalia|			0.0672184 
+SN.node[15].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[15].ResourceManager: Castalia|			0.432782 
+SN.node[16].ResourceManager: Castalia|	module:SN.node[16].ResourceManager
+SN.node[16].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[16].ResourceManager: Castalia|			0.0678862 
+SN.node[16].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[16].ResourceManager: Castalia|			0.432114 
+SN.node[17].ResourceManager: Castalia|	module:SN.node[17].ResourceManager
+SN.node[17].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[17].ResourceManager: Castalia|			0.0677431 
+SN.node[17].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[17].ResourceManager: Castalia|			0.432257 
+SN.node[18].ResourceManager: Castalia|	module:SN.node[18].ResourceManager
+SN.node[18].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[18].ResourceManager: Castalia|			0.0665624 
+SN.node[18].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[18].ResourceManager: Castalia|			0.433438 
+SN.node[19].ResourceManager: Castalia|	module:SN.node[19].ResourceManager
+SN.node[19].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[19].ResourceManager: Castalia|			0.0656988 
+SN.node[19].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[19].ResourceManager: Castalia|			0.434301 
+SN.node[20].ResourceManager: Castalia|	module:SN.node[20].ResourceManager
+SN.node[20].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[20].ResourceManager: Castalia|			0.0679596 
+SN.node[20].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[20].ResourceManager: Castalia|			0.43204 
+SN.node[21].ResourceManager: Castalia|	module:SN.node[21].ResourceManager
+SN.node[21].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[21].ResourceManager: Castalia|			0.0675669 
+SN.node[21].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[21].ResourceManager: Castalia|			0.432433 
+SN.node[22].ResourceManager: Castalia|	module:SN.node[22].ResourceManager
+SN.node[22].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[22].ResourceManager: Castalia|			0.0665079 
+SN.node[22].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[22].ResourceManager: Castalia|			0.433492 
+SN.node[23].ResourceManager: Castalia|	module:SN.node[23].ResourceManager
+SN.node[23].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[23].ResourceManager: Castalia|			0.0665204 
+SN.node[23].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[23].ResourceManager: Castalia|			0.43348 
+SN.node[24].ResourceManager: Castalia|	module:SN.node[24].ResourceManager
+SN.node[24].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[24].ResourceManager: Castalia|			0.0658541 
+SN.node[24].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[24].ResourceManager: Castalia|			0.434146 
+SN.node[25].ResourceManager: Castalia|	module:SN.node[25].ResourceManager
+SN.node[25].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[25].ResourceManager: Castalia|			0.0673282 
+SN.node[25].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[25].ResourceManager: Castalia|			0.432672 
+SN.node[26].ResourceManager: Castalia|	module:SN.node[26].ResourceManager
+SN.node[26].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[26].ResourceManager: Castalia|			0.0671143 
+SN.node[26].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[26].ResourceManager: Castalia|			0.432886 
+SN.node[27].ResourceManager: Castalia|	module:SN.node[27].ResourceManager
+SN.node[27].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[27].ResourceManager: Castalia|			0.0668579 
+SN.node[27].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[27].ResourceManager: Castalia|			0.433142 
+SN.node[28].ResourceManager: Castalia|	module:SN.node[28].ResourceManager
+SN.node[28].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[28].ResourceManager: Castalia|			0.0657619 
+SN.node[28].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[28].ResourceManager: Castalia|			0.434238 
+SN.node[29].ResourceManager: Castalia|	module:SN.node[29].ResourceManager
+SN.node[29].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[29].ResourceManager: Castalia|			0.0663862 
+SN.node[29].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[29].ResourceManager: Castalia|			0.433614 
+SN.node[30].ResourceManager: Castalia|	module:SN.node[30].ResourceManager
+SN.node[30].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[30].ResourceManager: Castalia|			0.0660522 
+SN.node[30].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[30].ResourceManager: Castalia|			0.433948 
+SN.node[31].ResourceManager: Castalia|	module:SN.node[31].ResourceManager
+SN.node[31].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[31].ResourceManager: Castalia|			0.064956 
+SN.node[31].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[31].ResourceManager: Castalia|			0.435044 
+SN.node[32].ResourceManager: Castalia|	module:SN.node[32].ResourceManager
+SN.node[32].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[32].ResourceManager: Castalia|			0.0679796 
+SN.node[32].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[32].ResourceManager: Castalia|			0.43202 
+SN.node[33].ResourceManager: Castalia|	module:SN.node[33].ResourceManager
+SN.node[33].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[33].ResourceManager: Castalia|			0.0654574 
+SN.node[33].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[33].ResourceManager: Castalia|			0.434543 
+SN.node[34].ResourceManager: Castalia|	module:SN.node[34].ResourceManager
+SN.node[34].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[34].ResourceManager: Castalia|			0.0661611 
+SN.node[34].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[34].ResourceManager: Castalia|			0.433839 
+SN.node[35].ResourceManager: Castalia|	module:SN.node[35].ResourceManager
+SN.node[35].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[35].ResourceManager: Castalia|			0.0647508 
+SN.node[35].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[35].ResourceManager: Castalia|			0.435249 
+SN.node[36].ResourceManager: Castalia|	module:SN.node[36].ResourceManager
+SN.node[36].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[36].ResourceManager: Castalia|			0.0671797 
+SN.node[36].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[36].ResourceManager: Castalia|			0.43282 
+SN.node[37].ResourceManager: Castalia|	module:SN.node[37].ResourceManager
+SN.node[37].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[37].ResourceManager: Castalia|			0.0666932 
+SN.node[37].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[37].ResourceManager: Castalia|			0.433307 
+SN.node[38].ResourceManager: Castalia|	module:SN.node[38].ResourceManager
+SN.node[38].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[38].ResourceManager: Castalia|			0.0666498 
+SN.node[38].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[38].ResourceManager: Castalia|			0.43335 
+SN.node[39].ResourceManager: Castalia|	module:SN.node[39].ResourceManager
+SN.node[39].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[39].ResourceManager: Castalia|			0.0661818 
+SN.node[39].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[39].ResourceManager: Castalia|			0.433818 
+SN.node[40].ResourceManager: Castalia|	module:SN.node[40].ResourceManager
+SN.node[40].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[40].ResourceManager: Castalia|			0.0670972 
+SN.node[40].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[40].ResourceManager: Castalia|			0.432903 
+SN.node[41].ResourceManager: Castalia|	module:SN.node[41].ResourceManager
+SN.node[41].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[41].ResourceManager: Castalia|			0.0670196 
+SN.node[41].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[41].ResourceManager: Castalia|			0.43298 
+SN.node[42].ResourceManager: Castalia|	module:SN.node[42].ResourceManager
+SN.node[42].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[42].ResourceManager: Castalia|			0.0657045 
+SN.node[42].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[42].ResourceManager: Castalia|			0.434295 
+SN.node[43].ResourceManager: Castalia|	module:SN.node[43].ResourceManager
+SN.node[43].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[43].ResourceManager: Castalia|			0.0660667 
+SN.node[43].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[43].ResourceManager: Castalia|			0.433933 
+SN.node[44].ResourceManager: Castalia|	module:SN.node[44].ResourceManager
+SN.node[44].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[44].ResourceManager: Castalia|			0.0665636 
+SN.node[44].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[44].ResourceManager: Castalia|			0.433436 
+SN.node[45].ResourceManager: Castalia|	module:SN.node[45].ResourceManager
+SN.node[45].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[45].ResourceManager: Castalia|			0.0671265 
+SN.node[45].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[45].ResourceManager: Castalia|			0.432874 
+SN.node[46].ResourceManager: Castalia|	module:SN.node[46].ResourceManager
+SN.node[46].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[46].ResourceManager: Castalia|			0.0675278 
+SN.node[46].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[46].ResourceManager: Castalia|			0.432472 
+SN.node[47].ResourceManager: Castalia|	module:SN.node[47].ResourceManager
+SN.node[47].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[47].ResourceManager: Castalia|			0.0665155 
+SN.node[47].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[47].ResourceManager: Castalia|			0.433484 
+SN.node[48].ResourceManager: Castalia|	module:SN.node[48].ResourceManager
+SN.node[48].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[48].ResourceManager: Castalia|			0.0662094 
+SN.node[48].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[48].ResourceManager: Castalia|			0.433791 
+SN.node[49].ResourceManager: Castalia|	module:SN.node[49].ResourceManager
+SN.node[49].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[49].ResourceManager: Castalia|			0.0654851 
+SN.node[49].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[49].ResourceManager: Castalia|			0.434515 
+SN.node[50].ResourceManager: Castalia|	module:SN.node[50].ResourceManager
+SN.node[50].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[50].ResourceManager: Castalia|			0.0654081 
+SN.node[50].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[50].ResourceManager: Castalia|			0.434592 
+SN.node[51].ResourceManager: Castalia|	module:SN.node[51].ResourceManager
+SN.node[51].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[51].ResourceManager: Castalia|			0.0652814 
+SN.node[51].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[51].ResourceManager: Castalia|			0.434719 
+SN.node[52].ResourceManager: Castalia|	module:SN.node[52].ResourceManager
+SN.node[52].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[52].ResourceManager: Castalia|			0.0670195 
+SN.node[52].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[52].ResourceManager: Castalia|			0.43298 
+SN.node[53].ResourceManager: Castalia|	module:SN.node[53].ResourceManager
+SN.node[53].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[53].ResourceManager: Castalia|			0.0671854 
+SN.node[53].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[53].ResourceManager: Castalia|			0.432815 
+SN.node[54].ResourceManager: Castalia|	module:SN.node[54].ResourceManager
+SN.node[54].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[54].ResourceManager: Castalia|			0.0673065 
+SN.node[54].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[54].ResourceManager: Castalia|			0.432693 
+SN.node[55].ResourceManager: Castalia|	module:SN.node[55].ResourceManager
+SN.node[55].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[55].ResourceManager: Castalia|			0.0650248 
+SN.node[55].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[55].ResourceManager: Castalia|			0.434975 
+SN.node[56].ResourceManager: Castalia|	module:SN.node[56].ResourceManager
+SN.node[56].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[56].ResourceManager: Castalia|			0.0667421 
+SN.node[56].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[56].ResourceManager: Castalia|			0.433258 
+SN.node[57].ResourceManager: Castalia|	module:SN.node[57].ResourceManager
+SN.node[57].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[57].ResourceManager: Castalia|			0.0656185 
+SN.node[57].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[57].ResourceManager: Castalia|			0.434381 
+SN.node[58].ResourceManager: Castalia|	module:SN.node[58].ResourceManager
+SN.node[58].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[58].ResourceManager: Castalia|			0.0648775 
+SN.node[58].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[58].ResourceManager: Castalia|			0.435123 
+SN.node[59].ResourceManager: Castalia|	module:SN.node[59].ResourceManager
+SN.node[59].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[59].ResourceManager: Castalia|			0.0679911 
+SN.node[59].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[59].ResourceManager: Castalia|			0.432009 
+SN.node[60].ResourceManager: Castalia|	module:SN.node[60].ResourceManager
+SN.node[60].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[60].ResourceManager: Castalia|			0.0647428 
+SN.node[60].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[60].ResourceManager: Castalia|			0.435257 
+SN.node[61].ResourceManager: Castalia|	module:SN.node[61].ResourceManager
+SN.node[61].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[61].ResourceManager: Castalia|			0.0675759 
+SN.node[61].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[61].ResourceManager: Castalia|			0.432424 
+SN.node[62].ResourceManager: Castalia|	module:SN.node[62].ResourceManager
+SN.node[62].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[62].ResourceManager: Castalia|			0.0657751 
+SN.node[62].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[62].ResourceManager: Castalia|			0.434225 
+SN.node[63].ResourceManager: Castalia|	module:SN.node[63].ResourceManager
+SN.node[63].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[63].ResourceManager: Castalia|			0.0669551 
+SN.node[63].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[63].ResourceManager: Castalia|			0.433045 
+SN.node[64].ResourceManager: Castalia|	module:SN.node[64].ResourceManager
+SN.node[64].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[64].ResourceManager: Castalia|			0.0649915 
+SN.node[64].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[64].ResourceManager: Castalia|			0.435008 
+SN.node[65].ResourceManager: Castalia|	module:SN.node[65].ResourceManager
+SN.node[65].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[65].ResourceManager: Castalia|			0.0653108 
+SN.node[65].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[65].ResourceManager: Castalia|			0.434689 
+SN.node[66].ResourceManager: Castalia|	module:SN.node[66].ResourceManager
+SN.node[66].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[66].ResourceManager: Castalia|			0.0651856 
+SN.node[66].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[66].ResourceManager: Castalia|			0.434814 
+SN.node[67].ResourceManager: Castalia|	module:SN.node[67].ResourceManager
+SN.node[67].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[67].ResourceManager: Castalia|			0.0667046 
+SN.node[67].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[67].ResourceManager: Castalia|			0.433295 
+SN.node[68].ResourceManager: Castalia|	module:SN.node[68].ResourceManager
+SN.node[68].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[68].ResourceManager: Castalia|			0.066776 
+SN.node[68].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[68].ResourceManager: Castalia|			0.433224 
+SN.node[69].ResourceManager: Castalia|	module:SN.node[69].ResourceManager
+SN.node[69].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[69].ResourceManager: Castalia|			0.0666172 
+SN.node[69].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[69].ResourceManager: Castalia|			0.433383 
+SN.node[70].ResourceManager: Castalia|	module:SN.node[70].ResourceManager
+SN.node[70].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[70].ResourceManager: Castalia|			0.0677476 
+SN.node[70].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[70].ResourceManager: Castalia|			0.432252 
+SN.node[71].ResourceManager: Castalia|	module:SN.node[71].ResourceManager
+SN.node[71].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[71].ResourceManager: Castalia|			0.0666545 
+SN.node[71].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[71].ResourceManager: Castalia|			0.433345 
+SN.node[72].ResourceManager: Castalia|	module:SN.node[72].ResourceManager
+SN.node[72].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[72].ResourceManager: Castalia|			0.0658396 
+SN.node[72].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[72].ResourceManager: Castalia|			0.43416 
+SN.node[73].ResourceManager: Castalia|	module:SN.node[73].ResourceManager
+SN.node[73].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[73].ResourceManager: Castalia|			0.0653849 
+SN.node[73].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[73].ResourceManager: Castalia|			0.434615 
+SN.node[74].ResourceManager: Castalia|	module:SN.node[74].ResourceManager
+SN.node[74].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[74].ResourceManager: Castalia|			0.0661645 
+SN.node[74].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[74].ResourceManager: Castalia|			0.433835 
+SN.node[75].ResourceManager: Castalia|	module:SN.node[75].ResourceManager
+SN.node[75].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[75].ResourceManager: Castalia|			0.0656351 
+SN.node[75].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[75].ResourceManager: Castalia|			0.434365 
+SN.node[76].ResourceManager: Castalia|	module:SN.node[76].ResourceManager
+SN.node[76].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[76].ResourceManager: Castalia|			0.0668319 
+SN.node[76].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[76].ResourceManager: Castalia|			0.433168 
+SN.node[77].ResourceManager: Castalia|	module:SN.node[77].ResourceManager
+SN.node[77].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[77].ResourceManager: Castalia|			0.0679826 
+SN.node[77].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[77].ResourceManager: Castalia|			0.432017 
+SN.node[78].ResourceManager: Castalia|	module:SN.node[78].ResourceManager
+SN.node[78].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[78].ResourceManager: Castalia|			0.067296 
+SN.node[78].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[78].ResourceManager: Castalia|			0.432704 
+SN.node[79].ResourceManager: Castalia|	module:SN.node[79].ResourceManager
+SN.node[79].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[79].ResourceManager: Castalia|			0.0669876 
+SN.node[79].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[79].ResourceManager: Castalia|			0.433012 
+SN.node[80].ResourceManager: Castalia|	module:SN.node[80].ResourceManager
+SN.node[80].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[80].ResourceManager: Castalia|			0.066679 
+SN.node[80].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[80].ResourceManager: Castalia|			0.433321 
+SN.node[81].ResourceManager: Castalia|	module:SN.node[81].ResourceManager
+SN.node[81].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[81].ResourceManager: Castalia|			0.0661478 
+SN.node[81].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[81].ResourceManager: Castalia|			0.433852 
+SN.node[82].ResourceManager: Castalia|	module:SN.node[82].ResourceManager
+SN.node[82].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[82].ResourceManager: Castalia|			0.0664668 
+SN.node[82].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[82].ResourceManager: Castalia|			0.433533 
+SN.node[83].ResourceManager: Castalia|	module:SN.node[83].ResourceManager
+SN.node[83].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[83].ResourceManager: Castalia|			0.0655174 
+SN.node[83].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[83].ResourceManager: Castalia|			0.434483 
+SN.node[84].ResourceManager: Castalia|	module:SN.node[84].ResourceManager
+SN.node[84].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[84].ResourceManager: Castalia|			0.0671458 
+SN.node[84].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[84].ResourceManager: Castalia|			0.432854 
+SN.node[85].ResourceManager: Castalia|	module:SN.node[85].ResourceManager
+SN.node[85].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[85].ResourceManager: Castalia|			0.0659885 
+SN.node[85].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[85].ResourceManager: Castalia|			0.434012 
+SN.node[86].ResourceManager: Castalia|	module:SN.node[86].ResourceManager
+SN.node[86].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[86].ResourceManager: Castalia|			0.0670691 
+SN.node[86].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[86].ResourceManager: Castalia|			0.432931 
+SN.node[87].ResourceManager: Castalia|	module:SN.node[87].ResourceManager
+SN.node[87].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[87].ResourceManager: Castalia|			0.0673698 
+SN.node[87].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[87].ResourceManager: Castalia|			0.43263 
+SN.node[88].ResourceManager: Castalia|	module:SN.node[88].ResourceManager
+SN.node[88].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[88].ResourceManager: Castalia|			0.066505 
+SN.node[88].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[88].ResourceManager: Castalia|			0.433495 
+SN.node[89].ResourceManager: Castalia|	module:SN.node[89].ResourceManager
+SN.node[89].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[89].ResourceManager: Castalia|			0.0658388 
+SN.node[89].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[89].ResourceManager: Castalia|			0.434161 
+SN.node[90].ResourceManager: Castalia|	module:SN.node[90].ResourceManager
+SN.node[90].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[90].ResourceManager: Castalia|			0.0651354 
+SN.node[90].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[90].ResourceManager: Castalia|			0.434865 
+SN.node[91].ResourceManager: Castalia|	module:SN.node[91].ResourceManager
+SN.node[91].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[91].ResourceManager: Castalia|			0.065808 
+SN.node[91].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[91].ResourceManager: Castalia|			0.434192 
+SN.node[92].ResourceManager: Castalia|	module:SN.node[92].ResourceManager
+SN.node[92].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[92].ResourceManager: Castalia|			0.0660679 
+SN.node[92].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[92].ResourceManager: Castalia|			0.433932 
+SN.node[93].ResourceManager: Castalia|	module:SN.node[93].ResourceManager
+SN.node[93].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[93].ResourceManager: Castalia|			0.0650995 
+SN.node[93].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[93].ResourceManager: Castalia|			0.4349 
+SN.node[94].ResourceManager: Castalia|	module:SN.node[94].ResourceManager
+SN.node[94].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[94].ResourceManager: Castalia|			0.0670973 
+SN.node[94].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[94].ResourceManager: Castalia|			0.432903 
+SN.node[95].ResourceManager: Castalia|	module:SN.node[95].ResourceManager
+SN.node[95].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[95].ResourceManager: Castalia|			0.065303 
+SN.node[95].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[95].ResourceManager: Castalia|			0.434697 
+SN.node[96].ResourceManager: Castalia|	module:SN.node[96].ResourceManager
+SN.node[96].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[96].ResourceManager: Castalia|			0.0671161 
+SN.node[96].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[96].ResourceManager: Castalia|			0.432884 
+SN.node[97].ResourceManager: Castalia|	module:SN.node[97].ResourceManager
+SN.node[97].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[97].ResourceManager: Castalia|			0.0667892 
+SN.node[97].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[97].ResourceManager: Castalia|			0.433211 
+SN.node[98].ResourceManager: Castalia|	module:SN.node[98].ResourceManager
+SN.node[98].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[98].ResourceManager: Castalia|			0.0665155 
+SN.node[98].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[98].ResourceManager: Castalia|			0.433485 
+SN.node[99].ResourceManager: Castalia|	module:SN.node[99].ResourceManager
+SN.node[99].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[99].ResourceManager: Castalia|			0.0678055 
+SN.node[99].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[99].ResourceManager: Castalia|			0.432195 
+SN.node[100].ResourceManager: Castalia|	module:SN.node[100].ResourceManager
+SN.node[100].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[100].ResourceManager: Castalia|			0.0673628 
+SN.node[100].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[100].ResourceManager: Castalia|			0.432637 
+SN.node[101].ResourceManager: Castalia|	module:SN.node[101].ResourceManager
+SN.node[101].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[101].ResourceManager: Castalia|			0.0654752 
+SN.node[101].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[101].ResourceManager: Castalia|			0.434525 
+SN.node[102].ResourceManager: Castalia|	module:SN.node[102].ResourceManager
+SN.node[102].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[102].ResourceManager: Castalia|			0.0673765 
+SN.node[102].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[102].ResourceManager: Castalia|			0.432624 
+SN.node[103].ResourceManager: Castalia|	module:SN.node[103].ResourceManager
+SN.node[103].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[103].ResourceManager: Castalia|			0.0678444 
+SN.node[103].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[103].ResourceManager: Castalia|			0.432156 
+SN.node[104].ResourceManager: Castalia|	module:SN.node[104].ResourceManager
+SN.node[104].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[104].ResourceManager: Castalia|			0.0663135 
+SN.node[104].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[104].ResourceManager: Castalia|			0.433687 
+SN.node[105].ResourceManager: Castalia|	module:SN.node[105].ResourceManager
+SN.node[105].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[105].ResourceManager: Castalia|			0.0652016 
+SN.node[105].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[105].ResourceManager: Castalia|			0.434798 
+SN.node[106].ResourceManager: Castalia|	module:SN.node[106].ResourceManager
+SN.node[106].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[106].ResourceManager: Castalia|			0.0677646 
+SN.node[106].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[106].ResourceManager: Castalia|			0.432235 
+SN.node[107].ResourceManager: Castalia|	module:SN.node[107].ResourceManager
+SN.node[107].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[107].ResourceManager: Castalia|			0.0657062 
+SN.node[107].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[107].ResourceManager: Castalia|			0.434294 
+SN.node[108].ResourceManager: Castalia|	module:SN.node[108].ResourceManager
+SN.node[108].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[108].ResourceManager: Castalia|			0.066417 
+SN.node[108].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[108].ResourceManager: Castalia|			0.433583 
+SN.node[109].ResourceManager: Castalia|	module:SN.node[109].ResourceManager
+SN.node[109].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[109].ResourceManager: Castalia|			0.0665451 
+SN.node[109].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[109].ResourceManager: Castalia|			0.433455 
+SN.node[110].ResourceManager: Castalia|	module:SN.node[110].ResourceManager
+SN.node[110].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[110].ResourceManager: Castalia|			0.0668298 
+SN.node[110].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[110].ResourceManager: Castalia|			0.43317 
+SN.node[111].ResourceManager: Castalia|	module:SN.node[111].ResourceManager
+SN.node[111].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[111].ResourceManager: Castalia|			0.0668292 
+SN.node[111].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[111].ResourceManager: Castalia|			0.433171 
+SN.node[112].ResourceManager: Castalia|	module:SN.node[112].ResourceManager
+SN.node[112].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[112].ResourceManager: Castalia|			0.065655 
+SN.node[112].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[112].ResourceManager: Castalia|			0.434345 
+SN.node[113].ResourceManager: Castalia|	module:SN.node[113].ResourceManager
+SN.node[113].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[113].ResourceManager: Castalia|			0.0663065 
+SN.node[113].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[113].ResourceManager: Castalia|			0.433694 
+SN.node[114].ResourceManager: Castalia|	module:SN.node[114].ResourceManager
+SN.node[114].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[114].ResourceManager: Castalia|			0.0655222 
+SN.node[114].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[114].ResourceManager: Castalia|			0.434478 
+SN.node[115].ResourceManager: Castalia|	module:SN.node[115].ResourceManager
+SN.node[115].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[115].ResourceManager: Castalia|			0.0665062 
+SN.node[115].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[115].ResourceManager: Castalia|			0.433494 
+SN.node[116].ResourceManager: Castalia|	module:SN.node[116].ResourceManager
+SN.node[116].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[116].ResourceManager: Castalia|			0.0657115 
+SN.node[116].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[116].ResourceManager: Castalia|			0.434289 
+SN.node[117].ResourceManager: Castalia|	module:SN.node[117].ResourceManager
+SN.node[117].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[117].ResourceManager: Castalia|			0.0653127 
+SN.node[117].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[117].ResourceManager: Castalia|			0.434687 
+SN.node[118].ResourceManager: Castalia|	module:SN.node[118].ResourceManager
+SN.node[118].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[118].ResourceManager: Castalia|			0.065718 
+SN.node[118].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[118].ResourceManager: Castalia|			0.434282 
+SN.node[119].ResourceManager: Castalia|	module:SN.node[119].ResourceManager
+SN.node[119].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[119].ResourceManager: Castalia|			0.0669858 
+SN.node[119].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[119].ResourceManager: Castalia|			0.433014 
+SN.node[120].ResourceManager: Castalia|	module:SN.node[120].ResourceManager
+SN.node[120].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[120].ResourceManager: Castalia|			0.0667909 
+SN.node[120].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[120].ResourceManager: Castalia|			0.433209 
+SN.node[121].ResourceManager: Castalia|	module:SN.node[121].ResourceManager
+SN.node[121].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[121].ResourceManager: Castalia|			0.0651923 
+SN.node[121].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[121].ResourceManager: Castalia|			0.434808 
+SN.node[122].ResourceManager: Castalia|	module:SN.node[122].ResourceManager
+SN.node[122].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[122].ResourceManager: Castalia|			0.0657895 
+SN.node[122].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[122].ResourceManager: Castalia|			0.43421 
+SN.node[123].ResourceManager: Castalia|	module:SN.node[123].ResourceManager
+SN.node[123].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[123].ResourceManager: Castalia|			0.0663976 
+SN.node[123].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[123].ResourceManager: Castalia|			0.433602 
+SN.node[124].ResourceManager: Castalia|	module:SN.node[124].ResourceManager
+SN.node[124].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[124].ResourceManager: Castalia|			0.0669057 
+SN.node[124].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[124].ResourceManager: Castalia|			0.433094 
+SN.node[125].ResourceManager: Castalia|	module:SN.node[125].ResourceManager
+SN.node[125].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[125].ResourceManager: Castalia|			0.0662248 
+SN.node[125].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[125].ResourceManager: Castalia|			0.433775 
+SN.node[126].ResourceManager: Castalia|	module:SN.node[126].ResourceManager
+SN.node[126].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[126].ResourceManager: Castalia|			0.0661137 
+SN.node[126].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[126].ResourceManager: Castalia|			0.433886 
+SN.node[127].ResourceManager: Castalia|	module:SN.node[127].ResourceManager
+SN.node[127].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[127].ResourceManager: Castalia|			0.0652523 
+SN.node[127].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[127].ResourceManager: Castalia|			0.434748 
+SN.node[128].ResourceManager: Castalia|	module:SN.node[128].ResourceManager
+SN.node[128].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[128].ResourceManager: Castalia|			0.0669534 
+SN.node[128].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[128].ResourceManager: Castalia|			0.433047 
+SN.node[129].ResourceManager: Castalia|	module:SN.node[129].ResourceManager
+SN.node[129].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[129].ResourceManager: Castalia|			0.0662877 
+SN.node[129].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[129].ResourceManager: Castalia|			0.433712 
+SN.node[130].ResourceManager: Castalia|	module:SN.node[130].ResourceManager
+SN.node[130].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[130].ResourceManager: Castalia|			0.0665477 
+SN.node[130].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[130].ResourceManager: Castalia|			0.433452 
+SN.node[131].ResourceManager: Castalia|	module:SN.node[131].ResourceManager
+SN.node[131].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[131].ResourceManager: Castalia|			0.0675763 
+SN.node[131].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[131].ResourceManager: Castalia|			0.432424 
+SN.node[132].ResourceManager: Castalia|	module:SN.node[132].ResourceManager
+SN.node[132].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[132].ResourceManager: Castalia|			0.067852 
+SN.node[132].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[132].ResourceManager: Castalia|			0.432148 
+SN.node[133].ResourceManager: Castalia|	module:SN.node[133].ResourceManager
+SN.node[133].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[133].ResourceManager: Castalia|			0.0670335 
+SN.node[133].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[133].ResourceManager: Castalia|			0.432967 
+SN.node[134].ResourceManager: Castalia|	module:SN.node[134].ResourceManager
+SN.node[134].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[134].ResourceManager: Castalia|			0.0672361 
+SN.node[134].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[134].ResourceManager: Castalia|			0.432764 
+SN.node[135].ResourceManager: Castalia|	module:SN.node[135].ResourceManager
+SN.node[135].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[135].ResourceManager: Castalia|			0.0653173 
+SN.node[135].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[135].ResourceManager: Castalia|			0.434683 
+SN.node[136].ResourceManager: Castalia|	module:SN.node[136].ResourceManager
+SN.node[136].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[136].ResourceManager: Castalia|			0.0647577 
+SN.node[136].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[136].ResourceManager: Castalia|			0.435242 
+SN.node[137].ResourceManager: Castalia|	module:SN.node[137].ResourceManager
+SN.node[137].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[137].ResourceManager: Castalia|			0.0669749 
+SN.node[137].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[137].ResourceManager: Castalia|			0.433025 
+SN.node[138].ResourceManager: Castalia|	module:SN.node[138].ResourceManager
+SN.node[138].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[138].ResourceManager: Castalia|			0.0672772 
+SN.node[138].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[138].ResourceManager: Castalia|			0.432723 
+SN.node[139].ResourceManager: Castalia|	module:SN.node[139].ResourceManager
+SN.node[139].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[139].ResourceManager: Castalia|			0.067989 
+SN.node[139].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[139].ResourceManager: Castalia|			0.432011 
+SN.node[140].ResourceManager: Castalia|	module:SN.node[140].ResourceManager
+SN.node[140].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[140].ResourceManager: Castalia|			0.0657102 
+SN.node[140].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[140].ResourceManager: Castalia|			0.43429 
+SN.node[141].ResourceManager: Castalia|	module:SN.node[141].ResourceManager
+SN.node[141].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[141].ResourceManager: Castalia|			0.0664209 
+SN.node[141].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[141].ResourceManager: Castalia|			0.433579 
+SN.node[142].ResourceManager: Castalia|	module:SN.node[142].ResourceManager
+SN.node[142].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[142].ResourceManager: Castalia|			0.0658496 
+SN.node[142].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[142].ResourceManager: Castalia|			0.43415 
+SN.node[143].ResourceManager: Castalia|	module:SN.node[143].ResourceManager
+SN.node[143].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[143].ResourceManager: Castalia|			0.0679727 
+SN.node[143].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[143].ResourceManager: Castalia|			0.432027 
+SN.node[144].ResourceManager: Castalia|	module:SN.node[144].ResourceManager
+SN.node[144].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[144].ResourceManager: Castalia|			0.0655998 
+SN.node[144].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[144].ResourceManager: Castalia|			0.4344 
+SN.node[145].ResourceManager: Castalia|	module:SN.node[145].ResourceManager
+SN.node[145].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[145].ResourceManager: Castalia|			0.0663422 
+SN.node[145].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[145].ResourceManager: Castalia|			0.433658 
+SN.node[146].ResourceManager: Castalia|	module:SN.node[146].ResourceManager
+SN.node[146].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[146].ResourceManager: Castalia|			0.0664459 
+SN.node[146].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[146].ResourceManager: Castalia|			0.433554 
+SN.node[147].ResourceManager: Castalia|	module:SN.node[147].ResourceManager
+SN.node[147].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[147].ResourceManager: Castalia|			0.0649399 
+SN.node[147].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[147].ResourceManager: Castalia|			0.43506 
+SN.node[148].ResourceManager: Castalia|	module:SN.node[148].ResourceManager
+SN.node[148].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[148].ResourceManager: Castalia|			0.0660325 
+SN.node[148].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[148].ResourceManager: Castalia|			0.433967 
+SN.node[149].ResourceManager: Castalia|	module:SN.node[149].ResourceManager
+SN.node[149].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[149].ResourceManager: Castalia|			0.0673575 
+SN.node[149].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[149].ResourceManager: Castalia|			0.432643 
+SN.node[150].ResourceManager: Castalia|	module:SN.node[150].ResourceManager
+SN.node[150].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[150].ResourceManager: Castalia|			0.0678335 
+SN.node[150].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[150].ResourceManager: Castalia|			0.432167 
+SN.node[151].ResourceManager: Castalia|	module:SN.node[151].ResourceManager
+SN.node[151].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[151].ResourceManager: Castalia|			0.0649137 
+SN.node[151].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[151].ResourceManager: Castalia|			0.435086 
+SN.node[152].ResourceManager: Castalia|	module:SN.node[152].ResourceManager
+SN.node[152].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[152].ResourceManager: Castalia|			0.0678145 
+SN.node[152].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[152].ResourceManager: Castalia|			0.432186 
+SN.node[153].ResourceManager: Castalia|	module:SN.node[153].ResourceManager
+SN.node[153].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[153].ResourceManager: Castalia|			0.0671183 
+SN.node[153].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[153].ResourceManager: Castalia|			0.432882 
+SN.node[154].ResourceManager: Castalia|	module:SN.node[154].ResourceManager
+SN.node[154].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[154].ResourceManager: Castalia|			0.0673847 
+SN.node[154].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[154].ResourceManager: Castalia|			0.432615 
+SN.node[155].ResourceManager: Castalia|	module:SN.node[155].ResourceManager
+SN.node[155].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[155].ResourceManager: Castalia|			0.0674626 
+SN.node[155].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[155].ResourceManager: Castalia|			0.432537 
+SN.node[156].ResourceManager: Castalia|	module:SN.node[156].ResourceManager
+SN.node[156].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[156].ResourceManager: Castalia|			0.0675449 
+SN.node[156].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[156].ResourceManager: Castalia|			0.432455 
+SN.node[157].ResourceManager: Castalia|	module:SN.node[157].ResourceManager
+SN.node[157].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[157].ResourceManager: Castalia|			0.0646942 
+SN.node[157].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[157].ResourceManager: Castalia|			0.435306 
+SN.node[158].ResourceManager: Castalia|	module:SN.node[158].ResourceManager
+SN.node[158].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[158].ResourceManager: Castalia|			0.0677208 
+SN.node[158].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[158].ResourceManager: Castalia|			0.432279 
+SN.node[159].ResourceManager: Castalia|	module:SN.node[159].ResourceManager
+SN.node[159].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[159].ResourceManager: Castalia|			0.0657062 
+SN.node[159].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[159].ResourceManager: Castalia|			0.434294 
+SN.node[160].ResourceManager: Castalia|	module:SN.node[160].ResourceManager
+SN.node[160].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[160].ResourceManager: Castalia|			0.0676216 
+SN.node[160].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[160].ResourceManager: Castalia|			0.432378 
+SN.node[161].ResourceManager: Castalia|	module:SN.node[161].ResourceManager
+SN.node[161].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[161].ResourceManager: Castalia|			0.0655039 
+SN.node[161].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[161].ResourceManager: Castalia|			0.434496 
+SN.node[162].ResourceManager: Castalia|	module:SN.node[162].ResourceManager
+SN.node[162].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[162].ResourceManager: Castalia|			0.06618 
+SN.node[162].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[162].ResourceManager: Castalia|			0.43382 
+SN.node[163].ResourceManager: Castalia|	module:SN.node[163].ResourceManager
+SN.node[163].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[163].ResourceManager: Castalia|			0.067666 
+SN.node[163].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[163].ResourceManager: Castalia|			0.432334 
+SN.node[164].ResourceManager: Castalia|	module:SN.node[164].ResourceManager
+SN.node[164].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[164].ResourceManager: Castalia|			0.0674226 
+SN.node[164].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[164].ResourceManager: Castalia|			0.432577 
+SN.node[165].ResourceManager: Castalia|	module:SN.node[165].ResourceManager
+SN.node[165].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[165].ResourceManager: Castalia|			0.0677688 
+SN.node[165].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[165].ResourceManager: Castalia|			0.432231 
+SN.node[166].ResourceManager: Castalia|	module:SN.node[166].ResourceManager
+SN.node[166].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[166].ResourceManager: Castalia|			0.064824 
+SN.node[166].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[166].ResourceManager: Castalia|			0.435176 
+SN.node[167].ResourceManager: Castalia|	module:SN.node[167].ResourceManager
+SN.node[167].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[167].ResourceManager: Castalia|			0.0657981 
+SN.node[167].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[167].ResourceManager: Castalia|			0.434202 
+SN.node[168].ResourceManager: Castalia|	module:SN.node[168].ResourceManager
+SN.node[168].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[168].ResourceManager: Castalia|			0.0657437 
+SN.node[168].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[168].ResourceManager: Castalia|			0.434256 
+SN.node[169].ResourceManager: Castalia|	module:SN.node[169].ResourceManager
+SN.node[169].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[169].ResourceManager: Castalia|			0.0669406 
+SN.node[169].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[169].ResourceManager: Castalia|			0.433059 
+SN.node[170].ResourceManager: Castalia|	module:SN.node[170].ResourceManager
+SN.node[170].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[170].ResourceManager: Castalia|			0.0662217 
+SN.node[170].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[170].ResourceManager: Castalia|			0.433778 
+SN.node[171].ResourceManager: Castalia|	module:SN.node[171].ResourceManager
+SN.node[171].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[171].ResourceManager: Castalia|			0.0668316 
+SN.node[171].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[171].ResourceManager: Castalia|			0.433168 
+SN.node[172].ResourceManager: Castalia|	module:SN.node[172].ResourceManager
+SN.node[172].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[172].ResourceManager: Castalia|			0.0656568 
+SN.node[172].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[172].ResourceManager: Castalia|			0.434343 
+SN.node[173].ResourceManager: Castalia|	module:SN.node[173].ResourceManager
+SN.node[173].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[173].ResourceManager: Castalia|			0.0662724 
+SN.node[173].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[173].ResourceManager: Castalia|			0.433728 
+SN.node[174].ResourceManager: Castalia|	module:SN.node[174].ResourceManager
+SN.node[174].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[174].ResourceManager: Castalia|			0.067164 
+SN.node[174].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[174].ResourceManager: Castalia|			0.432836 
+SN.node[175].ResourceManager: Castalia|	module:SN.node[175].ResourceManager
+SN.node[175].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[175].ResourceManager: Castalia|			0.0666171 
+SN.node[175].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[175].ResourceManager: Castalia|			0.433383 
+SN.node[176].ResourceManager: Castalia|	module:SN.node[176].ResourceManager
+SN.node[176].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[176].ResourceManager: Castalia|			0.0649103 
+SN.node[176].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[176].ResourceManager: Castalia|			0.43509 
+SN.node[177].ResourceManager: Castalia|	module:SN.node[177].ResourceManager
+SN.node[177].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[177].ResourceManager: Castalia|			0.0652739 
+SN.node[177].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[177].ResourceManager: Castalia|			0.434726 
+SN.node[178].ResourceManager: Castalia|	module:SN.node[178].ResourceManager
+SN.node[178].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[178].ResourceManager: Castalia|			0.0652079 
+SN.node[178].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[178].ResourceManager: Castalia|			0.434792 
+SN.node[179].ResourceManager: Castalia|	module:SN.node[179].ResourceManager
+SN.node[179].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[179].ResourceManager: Castalia|			0.0661188 
+SN.node[179].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[179].ResourceManager: Castalia|			0.433881 
+SN.node[180].ResourceManager: Castalia|	module:SN.node[180].ResourceManager
+SN.node[180].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[180].ResourceManager: Castalia|			0.0655917 
+SN.node[180].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[180].ResourceManager: Castalia|			0.434408 
+SN.node[181].ResourceManager: Castalia|	module:SN.node[181].ResourceManager
+SN.node[181].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[181].ResourceManager: Castalia|			0.0650654 
+SN.node[181].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[181].ResourceManager: Castalia|			0.434935 
+SN.node[182].ResourceManager: Castalia|	module:SN.node[182].ResourceManager
+SN.node[182].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[182].ResourceManager: Castalia|			0.0664284 
+SN.node[182].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[182].ResourceManager: Castalia|			0.433572 
+SN.node[183].ResourceManager: Castalia|	module:SN.node[183].ResourceManager
+SN.node[183].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[183].ResourceManager: Castalia|			0.0653391 
+SN.node[183].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[183].ResourceManager: Castalia|			0.434661 
+SN.node[184].ResourceManager: Castalia|	module:SN.node[184].ResourceManager
+SN.node[184].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[184].ResourceManager: Castalia|			0.065198 
+SN.node[184].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[184].ResourceManager: Castalia|			0.434802 
+SN.node[185].ResourceManager: Castalia|	module:SN.node[185].ResourceManager
+SN.node[185].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[185].ResourceManager: Castalia|			0.0668714 
+SN.node[185].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[185].ResourceManager: Castalia|			0.433129 
+SN.node[186].ResourceManager: Castalia|	module:SN.node[186].ResourceManager
+SN.node[186].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[186].ResourceManager: Castalia|			0.065529 
+SN.node[186].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[186].ResourceManager: Castalia|			0.434471 
+SN.node[187].ResourceManager: Castalia|	module:SN.node[187].ResourceManager
+SN.node[187].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[187].ResourceManager: Castalia|			0.0654339 
+SN.node[187].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[187].ResourceManager: Castalia|			0.434566 
+SN.node[188].ResourceManager: Castalia|	module:SN.node[188].ResourceManager
+SN.node[188].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[188].ResourceManager: Castalia|			0.0658161 
+SN.node[188].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[188].ResourceManager: Castalia|			0.434184 
+SN.node[189].ResourceManager: Castalia|	module:SN.node[189].ResourceManager
+SN.node[189].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[189].ResourceManager: Castalia|			0.0650131 
+SN.node[189].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[189].ResourceManager: Castalia|			0.434987 
+SN.node[190].ResourceManager: Castalia|	module:SN.node[190].ResourceManager
+SN.node[190].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[190].ResourceManager: Castalia|			0.0649537 
+SN.node[190].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[190].ResourceManager: Castalia|			0.435046 
+SN.node[191].ResourceManager: Castalia|	module:SN.node[191].ResourceManager
+SN.node[191].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[191].ResourceManager: Castalia|			0.0653897 
+SN.node[191].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[191].ResourceManager: Castalia|			0.43461 
+SN.node[192].ResourceManager: Castalia|	module:SN.node[192].ResourceManager
+SN.node[192].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[192].ResourceManager: Castalia|			0.0659067 
+SN.node[192].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[192].ResourceManager: Castalia|			0.434093 
+SN.node[193].ResourceManager: Castalia|	module:SN.node[193].ResourceManager
+SN.node[193].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[193].ResourceManager: Castalia|			0.0670976 
+SN.node[193].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[193].ResourceManager: Castalia|			0.432902 
+SN.node[194].ResourceManager: Castalia|	module:SN.node[194].ResourceManager
+SN.node[194].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[194].ResourceManager: Castalia|			0.066817 
+SN.node[194].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[194].ResourceManager: Castalia|			0.433183 
+SN.node[195].ResourceManager: Castalia|	module:SN.node[195].ResourceManager
+SN.node[195].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[195].ResourceManager: Castalia|			0.0650627 
+SN.node[195].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[195].ResourceManager: Castalia|			0.434937 
+SN.node[196].ResourceManager: Castalia|	module:SN.node[196].ResourceManager
+SN.node[196].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[196].ResourceManager: Castalia|			0.0661815 
+SN.node[196].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[196].ResourceManager: Castalia|			0.433818 
+SN.node[197].ResourceManager: Castalia|	module:SN.node[197].ResourceManager
+SN.node[197].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[197].ResourceManager: Castalia|			0.0662069 
+SN.node[197].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[197].ResourceManager: Castalia|			0.433793 
+SN.node[198].ResourceManager: Castalia|	module:SN.node[198].ResourceManager
+SN.node[198].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[198].ResourceManager: Castalia|			0.0673935 
+SN.node[198].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[198].ResourceManager: Castalia|			0.432607 
+SN.node[199].ResourceManager: Castalia|	module:SN.node[199].ResourceManager
+SN.node[199].ResourceManager: Castalia|		simple output name:Consumed Energy
+SN.node[199].ResourceManager: Castalia|			0.0652459 
+SN.node[199].ResourceManager: Castalia|		simple output name:Remaining Energy
+SN.node[199].ResourceManager: Castalia|			0.434754 
+
